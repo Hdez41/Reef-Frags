@@ -95,7 +95,7 @@ body {
 .main-footer-container {
   text-align: center;
   background-image: url("img/Background\ 3.jpg");
-  height: 200px;
+  height: auto;
   margin-top: 5%;
 }
 
